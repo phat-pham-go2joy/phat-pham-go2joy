@@ -1,5 +1,5 @@
 - Hi, I’m @phat-pham-go2joy
-- I'm iOS Developer
+- I'm an iOS Developer
 
 <!---
 phat-pham-go2joy/phat-pham-go2joy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
